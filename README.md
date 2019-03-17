@@ -184,7 +184,7 @@ The following exercises reinforce the skills needed to install WordPress: **Prac
 3.  Password
 4.  All of the above
 
-**Answer:** 5\. All of the above
+**Answer:** 4\. All of the above
 
 * * *
 

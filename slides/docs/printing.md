@@ -3,7 +3,7 @@
 You can export your presentation to PDF by sending it to print in list mode in Chrome and Opera desktop browsers.
 
 1. Press `Cmd P` or `Ctrl P`
-2. Select PDF in targets list
+2. Select PDF in the targets list
 3. Save resulted file
 
 ![Printing dialog](images/ribbon-printing.png)

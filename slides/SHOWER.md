@@ -4,7 +4,7 @@
 
 1. Built on HTML, CSS and vanilla JavaScript
 2. Works in all modern browsers
-3. Themes are separated from engine
+3. Themes are separated from the engine
 4. Modular and extensible
 5. Fully keyboard accessible
 6. Printable to PDF
@@ -22,7 +22,7 @@
 
 ## Browser Support
 
-Latest stable versions of Chrome, Edge, Firefox, and Safari are supported.
+The latest stable versions of Chrome, Edge, Firefox, and Safari are supported.
 
 ---
 Licensed under [MIT License](LICENSE.md).

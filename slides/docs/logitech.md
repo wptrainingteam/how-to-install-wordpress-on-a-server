@@ -9,9 +9,9 @@ There’s a brand new [Logitech Spotlight](http://www.logitech.com/en-us/product
 
 <img src="images/logitech.png" width="300" alt="Logitech Presenter application">
 
-You might have to enable accessibility access on macOS in order to use this features. App will ask you once it’s needed.
+You might have to enable accessibility access on macOS to use these features. The app will ask you once it’s needed.
 
 Now when all is set you can:
 
-- Start your presentation by holding next button: from the first slide (if none selected) or from the current slide (if there’s one).
-- Exit full screen mode by holding back button. It might be useful when you need to find a certain slide and navigate the list.
+- Start your presentation by holding the next button: from the first slide (if none selected) or from the current slide (if there’s one).
+- Exit full-screen mode by holding the back button. It might be useful when you need to find a certain slide and navigate the list.

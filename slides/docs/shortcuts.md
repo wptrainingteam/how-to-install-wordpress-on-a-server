@@ -19,7 +19,7 @@ You can navigate between slides, start and stop presentation using keyboard shor
 - `Page Down` key or `Fn Down` on Mac
 - `N` for “next”, `J` or `L` keys
 - `Enter` key
-- `Space` key during presentation
+- `Space` key during the presentation
 
 ## Backward
 
@@ -27,7 +27,7 @@ You can navigate between slides, start and stop presentation using keyboard shor
 - `Page Up` key or `Fn Up` on Mac
 - `P` for “previous”, `K` or `H` keys, like in vim
 - `Shift Enter` key
-- `Shift Space` key during presentation
+- `Shift Space` key during the presentation
 
 ## First and Last
 
